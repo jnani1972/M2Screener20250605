@@ -1,0 +1,7 @@
+{
+  "start": "9:00",
+  "trade_start": "9:15",
+  "trade_buy_end": "3:15",
+  "trade_sell_end": "3:30",
+  "end": "3:30"
+}
